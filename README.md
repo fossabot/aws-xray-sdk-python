@@ -3,6 +3,7 @@
 # AWS X-Ray SDK for Python
 
 ![Screenshot of the AWS X-Ray console](/images/example_servicemap.png?raw=true)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fazatoth%2Faws-xray-sdk-python.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fazatoth%2Faws-xray-sdk-python?ref=badge_shield)
 
 ## Installing
 
@@ -297,3 +298,6 @@ db = XRayFlaskSqlAlchemy(app)
 ## License
 
 The AWS X-Ray SDK for Python is licensed under the Apache 2.0 License. See LICENSE and NOTICE.txt for more information.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fazatoth%2Faws-xray-sdk-python.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fazatoth%2Faws-xray-sdk-python?ref=badge_large)
